@@ -26,7 +26,7 @@ This project requires the following packages to be installed:
 You can install them at once by using the following script:
 
 ```sh
-./go_gets.sh
+./go_get.sh
 ```
 
 
