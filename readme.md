@@ -32,7 +32,7 @@ You can install them at once by using the following script:
 
 ## Usage
 
-Use the following commands from within the `instructions` folder to compile then run the binary for this project:
+Use the following commands to compile then run the binary for this project:
 
 ```sh
 # Compile the binary
